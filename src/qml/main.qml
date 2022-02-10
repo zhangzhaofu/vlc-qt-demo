@@ -1,6 +1,5 @@
-import QtQuick
-import QtQuick.Controls
-import QtMultimedia
+import QtQuick 2.12
+import QtQuick.Controls 2.12
 
 ApplicationWindow {
     id: mainWindow
